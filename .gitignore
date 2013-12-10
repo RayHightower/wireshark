@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled or generated source #
 ################################
 *.dll
@@ -178,3 +179,23 @@ packaging/macosx/Wireshark_package.pmdoc/index.xml
 packaging/rpm/SPECS/wireshark.spec
 packaging/svr4/checkinstall
 packaging/svr4/pkginfo
+=======
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 80724fe239ac8d38ffd5d770f5305cf829d8ca8a
